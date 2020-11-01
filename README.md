@@ -1,7 +1,7 @@
 # Call Of Duty Zombies: Easter Egg Guider
 By: Finnegan McGuire
 
--How it was made
+# Created With
  - Nodejs
  - Electron
  - HTML, CSS
