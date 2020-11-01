@@ -7,10 +7,11 @@ body {
 }
 
 .tab{
-  float: left;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
-  width: 270px;
+ float: left;
+ border: 1px solid #ccc;
+ background-color: #f1f1f1;
+ width: 25%;
+ margin: auto;
 }
 
 .tab button{
@@ -44,7 +45,34 @@ body {
   border-left: none;
 }
 
+.buttons{
+  background-color: inherit;
+  padding: 1px 1px;
+  cursor: pointer;
+
+}
+
 #COD_WAW{
   background-image: url(public/images/wawbg.jpg);
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+#COD_BO{
+  background-image: url(public/images/bobg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+#COD_BO2{
+  background-image: url(public/images/bo2bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+#COD_BO3{
+  background-image: url(public/images/bo3bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
 }
